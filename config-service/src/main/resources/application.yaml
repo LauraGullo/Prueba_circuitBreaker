@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: circuit-breaker
+          default-label: master
           uri: https://github.com/LauraGullo/Prueba_circuitBreaker.git
           search-paths: config-data
   application:
